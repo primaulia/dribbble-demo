@@ -1,0 +1,9 @@
+.icons {
+  list-style-type: none;
+  padding: 0;
+  text-align: right;
+}
+
+.icons li {
+  display: inline-block;
+}

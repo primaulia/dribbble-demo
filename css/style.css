@@ -1,0 +1,9 @@
+@import 'components/avatar.css';
+@import 'components/button.css';
+@import 'components/img.css';
+@import 'components/list.css';
+@import 'components/card.css';
+
+body {
+  background: rgba(200,200,200, .5);
+}

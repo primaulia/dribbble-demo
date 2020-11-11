@@ -1,0 +1,27 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-post {
+  margin: 0 12px;
+}
+
+.card-main {
+  background-color: white;
+  padding: 12px;
+}
+
+.card-main .btn {
+  display: none;
+}
+
+.card-avatar {
+  margin: 12px 0;
+  display: flex;
+  align-items: center;
+}
+
+.card-avatar img {
+  margin-right: 4px;
+}

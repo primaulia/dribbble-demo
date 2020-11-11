@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@600&display=swap');
+
+/* GENERIC --> SPECIFIC */
+/* Type elements */
+/* single classes */
+/* combination between classes and elements */
+/* #id */
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color: rgba(10,10,10,0.2);
+}
+
+h1, h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+li a {
+  color: black;
+  font-size: 50px;
+}
+
+li a:hover {
+  color: rgba(100, 100, 100, 0.5);
+}
+
+.container {
+  background-color: white;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 960px;
+  padding: 10px 20px;
+  box-shadow: 4px 4px 8px rgba(10, 10, 10, 0.5);
+}
+
+.passion {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+
+.passion ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.passion li {
+  display: inline-block;
+  margin: 0 8px;
+  background-color: white;
+  padding: 8px;
+}
+
+
+
+
+
+
